@@ -1,6 +1,6 @@
 # Exploit_Fidelity.py developed by Md. Abu Naser Nayeem[Tanjib]_Mr.EchoFi 
 # This script is for educational purposes only.
-# cpyright (c) 2024 Md. Abu Naser Nayeem[Tanjib]_Mr.EchoFi
+# copyright (c) 2024 Md. Abu Naser Nayeem[Tanjib]_Mr.EchoFi
 
 import os
 import subprocess
@@ -127,7 +127,7 @@ ___________.__    .___     .__  .__  __              ____  ___      .__         
                    .+@@@@@@@@@@@@@@@@@@*.                   ||  
                    %@@@@@#=..  ..-#@@@@@%                   ||  https://github.com/MrEchoFi/MrEchoFi
                    -@@@-..        ..-@@@=                   ||  
-                           .:=+:.                           ||*  cpyright (c) 2024 Md. Abu Naser Nayeem[Tanjib]_Mr.EchoFi
+                           .:=+:.                           ||*  copyright (c) 2024 Md. Abu Naser Nayeem[Tanjib]_Mr.EchoFi
                         ..*@@@@@@*.                         
                          =@@@@@@@@=                         
                         .-@@@@@@@@-                         
