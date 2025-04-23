@@ -1,5 +1,5 @@
 # Fidelity_Xploit
-Fidelity_Xploit build for Network &amp; Wifi explosion and investigations 
+Fidelity_Xploit build for Network &amp; Wifi exploitation and investigation. 
 
 # Video:
 for_better_understanding,
