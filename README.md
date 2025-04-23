@@ -18,6 +18,14 @@ Because subtlety is boring. Whether you're auditing your own network or diving d
 
 # This script can run on---> kali linux, Ubuntu, WSL, parrot OS
 
+# before install the script--------\/---------
+
+ first install all of these:
+ 
+"aircrack-ng", "crunch", "xterm", "wordlists", "reaver", "pixiewps", 
+        "bully", "wifite", "airodump-ng", "nmap", "metasploit-framework", 
+        "hydra", "wifiphisher", "nikto", "netcat", "gobuster", "ncat", "sqlmap"
+
 # Installation -------\/-------
 
 Kali Linux / Ubuntu / Parrot OS / WSL :
