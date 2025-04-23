@@ -10,6 +10,7 @@ for_better_understanding
 # Installation -------\/-------
 
 Kali Linux / Ubuntu / Parrot OS / WSL :
+
     sudo apt-get update && apt-get install git
     git clone https://github.com/MrEchoFi/Fidelity_Xploit.git
     ls
