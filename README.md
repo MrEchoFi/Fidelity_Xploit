@@ -2,7 +2,12 @@
 Fidelity_Xploit build for Network &amp; Wifi explosion and investigations 
 
 # Video:
-for_better_understanding
+for_better_understanding,
+
+
+https://github.com/user-attachments/assets/75ad5a12-5dc4-49e9-8779-fe0d220154c0
+
+
 
 # Overview: 
  Fidelity_Xploit is a high-performance OSINT tool crafted for network and WiFi exploitation and investigations. Designed with both offensive security professionals and 
